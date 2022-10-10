@@ -19,8 +19,13 @@ This is a solution to the [Interactive pricing component challenge on Frontend M
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+// need background image 
+// create the main box 
+- header(simple traffic based pricing)
+- sub heading
 
 ### The challenge
+
 
 Users should be able to:
 
